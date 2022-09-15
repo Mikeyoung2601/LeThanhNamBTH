@@ -16303,11 +16303,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\PTPMQL\\LeThanhNamBTH\\LeThanhNam_BTH\\Demo\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "LeThanhNam_BTH\\Demo\\Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\PTPMQL\\LeThanhNamBTH\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -16315,21 +16310,6 @@
     {
       "FilePath": "c:\\PTPMQL\\LeThanhNamBTH\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\PTPMQL\\LeThanhNamBTH\\LeThanhNam_BTH\\Demo\\Views\\_ViewStart.cshtml",
-      "TargetPath": "LeThanhNam_BTH\\Demo\\Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\PTPMQL\\LeThanhNamBTH\\LeThanhNam_BTH\\Demo\\Views\\Home\\Index.cshtml",
-      "TargetPath": "LeThanhNam_BTH\\Demo\\Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\PTPMQL\\LeThanhNamBTH\\LeThanhNam_BTH\\Demo\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "LeThanhNam_BTH\\Demo\\Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16348,11 +16328,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\PTPMQL\\LeThanhNamBTH\\LeThanhNam_BTH\\Demo\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "LeThanhNam_BTH\\Demo\\Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\PTPMQL\\LeThanhNamBTH\\Views\\HelloWorld\\Welcome.cshtml",
       "TargetPath": "Views\\HelloWorld\\Welcome.cshtml",
       "FileKind": "mvc"
@@ -16365,21 +16340,6 @@
     {
       "FilePath": "c:\\PTPMQL\\LeThanhNamBTH\\Views\\Person\\index.cshtml",
       "TargetPath": "Views\\Person\\index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\PTPMQL\\LeThanhNamBTH\\LeThanhNam_BTH\\Demo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "LeThanhNam_BTH\\Demo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\PTPMQL\\LeThanhNamBTH\\LeThanhNam_BTH\\Demo\\Views\\_ViewImports.cshtml",
-      "TargetPath": "LeThanhNam_BTH\\Demo\\Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\PTPMQL\\LeThanhNamBTH\\LeThanhNam_BTH\\Demo\\Views\\HelloWorld\\Index.cshtml",
-      "TargetPath": "LeThanhNam_BTH\\Demo\\Views\\HelloWorld\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
