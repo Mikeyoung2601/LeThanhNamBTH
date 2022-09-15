@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PTPMQL\\LeThanhNamBTH\\LeThanhNamBTH.csproj",
+      "projectUniqueName": "c:\\PTPMQL\\LeThanhNamBTH\\LeThanhNamBTH.csproj",
       "projectName": "LeThanhNamBTH",
-      "projectPath": "C:\\PTPMQL\\LeThanhNamBTH\\LeThanhNamBTH.csproj",
+      "projectPath": "c:\\PTPMQL\\LeThanhNamBTH\\LeThanhNamBTH.csproj",
       "packagesPath": "C:\\Users\\quang\\.nuget\\packages\\",
-      "outputPath": "C:\\PTPMQL\\LeThanhNamBTH\\obj\\",
+      "outputPath": "c:\\PTPMQL\\LeThanhNamBTH\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\quang\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
