@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\PTPMQL\\LeThanhNamBTH\\LeThanhNamBTH.csproj": {}
+    "C:\\PTPMQL\\LeThanhNamBTH\\LeThanhNamBTH.csproj": {}
   },
   "projects": {
-    "c:\\PTPMQL\\LeThanhNamBTH\\LeThanhNamBTH.csproj": {
+    "C:\\PTPMQL\\LeThanhNamBTH\\LeThanhNamBTH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\PTPMQL\\LeThanhNamBTH\\LeThanhNamBTH.csproj",
+        "projectUniqueName": "C:\\PTPMQL\\LeThanhNamBTH\\LeThanhNamBTH.csproj",
         "projectName": "LeThanhNamBTH",
-        "projectPath": "c:\\PTPMQL\\LeThanhNamBTH\\LeThanhNamBTH.csproj",
+        "projectPath": "C:\\PTPMQL\\LeThanhNamBTH\\LeThanhNamBTH.csproj",
         "packagesPath": "C:\\Users\\quang\\.nuget\\packages\\",
-        "outputPath": "c:\\PTPMQL\\LeThanhNamBTH\\obj\\",
+        "outputPath": "C:\\PTPMQL\\LeThanhNamBTH\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\quang\\AppData\\Roaming\\NuGet\\NuGet.Config"
